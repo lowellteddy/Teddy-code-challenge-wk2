@@ -18,8 +18,8 @@ https://github.com/lowellteddy/Teddy-code-challenge-wk2
 
 ## CONTACTS
 you can contact me at:
-[Github] (https://github.com/lowellteddy)
-[Email]  (https://mail.google.com/mail)
+[Github](https://github.com/lowellteddy)
+[Email](https://mail.google.com/mail)
 
 
 ## LICENSE
