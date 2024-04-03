@@ -1,7 +1,7 @@
 # CODE-CHALLENGE-WK2
 
 ## AUTHOR 
-Teddy Lowell (https://github.com/lowellteddy)
+[Teddy Lowell](https://github.com/lowellteddy)
 
 ## DESCRIPTION 
 ### Case swapper
@@ -18,8 +18,8 @@ https://github.com/lowellteddy/Teddy-code-challenge-wk2
 
 ## CONTACTS
 you can contact me at:
-Github (https://github.com/lowellteddy)
-Email  (https://mail.google.com/mail)
+[Github] (https://github.com/lowellteddy)
+[Email]  (https://mail.google.com/mail)
 
 
 ## LICENSE
